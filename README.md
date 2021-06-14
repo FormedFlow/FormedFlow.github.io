@@ -1,6 +1,6 @@
 # portfolio
 <details>
-<summary>Электронное портфоли?</summary>
+<summary>Электронное портфолио</summary>
 <br>
 This is how you dropdown.
 </details>
