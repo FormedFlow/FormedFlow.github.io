@@ -1,0 +1,4 @@
+ORM
+commit() при создании таблицы
+.commit() .commitmany() разнциа
+conn.close()

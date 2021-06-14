@@ -1,0 +1,18 @@
+#bck {
+	background: url("https://sun9-5.userapi.com/c830709/v830709503/19254e/2uUxsC1SOLE.jpg") fixed repeat-y;
+	width: 100%;
+	height: 100%;
+}
+
+.paragraph {
+	background-color: black;
+}
+
+p.paragraph {
+	color: #742D7B;
+	font-weight: bold;
+}
+
+p.paragraph span {
+	color: #40DBDB;
+}

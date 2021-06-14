@@ -1,0 +1,12 @@
+
+Model Name: Деятельность компании
+Definition: Это учебная модель, описывающая деятельность компании
+Scope: Общее управление бизнесом компании: исследование рынка, закупка компонентов, сборка, тестирование и продажа продуктов
+Viewpoint: Директор
+Time Frame: (AS-IS)
+Status: WORKING
+Purpose: Моделировать текущие (AS-IS) бизнес-процессы компании
+Author Name: Леонид
+Creation Date: 02.12.2018
+System Last Revision Date: 18.12.2018
+User Last Revision Date: 18.12.2018

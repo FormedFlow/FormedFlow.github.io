@@ -1,0 +1,39 @@
+@keyframes damn {
+	0% {}
+	100% {transform:scale(2,2) translate(21px,15px);}
+}
+
+@keyframes bog {
+	from {transform: translate(100px,0);}
+	to {transform: translate(-100px,0);}
+}
+
+@keyframes third {
+	from {}
+	to {transform: rotate(360deg)}
+}
+
+.hidediv {
+	overflow: hidden;
+	width: 100px;
+	height: 40px;
+	margin: 0;
+}
+
+#damnimg {
+	position:relative;
+	left: -8px;
+	top: 58px;
+	animation: damn 4s ease-out infinite;
+}
+
+#run {
+	animation: bog 5s linear infinite 0s;
+}
+
+#thirdimg {
+	animation: third 6s linear infinite 0s;
+	position: relative;
+	top: 50%;
+	left: 30%
+}
