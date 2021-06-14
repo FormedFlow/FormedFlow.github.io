@@ -1,9 +1,0 @@
-Base exceptions:
-	-Exception:
-		-VE
-		-IE
-		-TE
-		-...
-	-KE
-	-GE
-	-SE
